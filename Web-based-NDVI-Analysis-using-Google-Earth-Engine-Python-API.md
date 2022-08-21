@@ -10,3 +10,16 @@ Therefore, our project is focused on the calculation of NDVI using remotely sens
 - Animate a time series of NDVI, to get a comprehensive understanding of the variation of the area which is interested.
 - Deriving basic meteorological variables such as, wetness and dryness to identify drought events.
 - Finally provide an option of downloading the image visualization with DEM capabilities.
+
+## Group members
+- K. M. Malinga Prabhasara
+- S. Rangeetha
+- D. M. Sudarshi Dissanayaka
+- Poornima Gimhani Thennakoon
+- K. M. T. Inu Laksith
+- K. Ishari Dilmini
+- J. G. Udeshika Sewwandi
+
+
+
+
