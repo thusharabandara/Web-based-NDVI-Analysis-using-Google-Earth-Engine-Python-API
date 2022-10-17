@@ -25,6 +25,7 @@ Therefore, our project is focused on the calculation of NDVI using remotely sens
 - K. M. T. Inu Laksith (GIS/2022/62)
 - K. Ishari Dilmini (GIS/2022/26)
 - J. G. U. Sewwandi Sugathapala (GIS/2022/72)
+- Thilan Senewirathna
 
 
 
