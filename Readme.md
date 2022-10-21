@@ -16,6 +16,9 @@ Therefore, our project is focused on the calculation of NDVI using remotely sens
 - Rasterio
 - Shapely
 - Geemap
+- Geopanda
+- Streamlit
+
 
 ## Group members
 - K. M. Malinga Prabhasara (GIS/2022/40)
