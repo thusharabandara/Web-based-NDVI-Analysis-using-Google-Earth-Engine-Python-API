@@ -9,12 +9,12 @@ Original file is located at
 
 #first we have to get the token which has sent to our email
 
-#loading data
+#loading data from GEE
 dataset = ee.Image("LANDSAT/LC08/C01/T1_TOA/LC08_170052_20170108")\
   .select('B3', 'B4')
 
 
-#filtering boundary of the Sri Lanka
+#filtering AOI boundary as Sri Lanka
 country = ee.Geometry.Rectangle(5.55, 9.51, 79.41, 81.53)
 
 #exporting data to the drive
